@@ -1,0 +1,28 @@
+body {
+  direction: rtl;
+  font-family: "Rubik", sans-serif;
+}
+.heading img {
+  height: 130px;
+}
+.font-open-sans {
+  font-family: "open-sans", sans-serif;
+}
+.summary {
+  font-family: "Oswald", tajawal;
+  font-weight: 600;
+  text-align: justify;
+  text-justify: inter-word;
+}
+.service {
+  background-color: #e6e4e459;
+  border-radius: 2rem;
+  padding: 1rem;
+}
+.service img {
+  border-radius: 0.5rem;
+}
+.footer {
+  background-color: #404040;
+  color: white;
+}
